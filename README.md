@@ -1,7 +1,7 @@
 # Búsqueda y Recuperación de Información en la Web
 
 **Repositorio del Proyecto Final**
-
+--- 
 ### Equipo de Desarrollo
 | Nombre | Matrícula | GitHub | Fotografía |
 |---|---|---|---|
